@@ -10,9 +10,9 @@
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+  [![License](https://img.shields.io/badge/license-CC0-blue.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
   
-  <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+<!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
 
 </div>
 
@@ -72,15 +72,15 @@ Even if for some reason they have to use it, without good documentation, they wo
 
 ## Templates <a name = "templates"></a>
 
-- [README](/README%20Templates)
-- [Pull Request](/PULL_REQUEST_TEMPLATE.md)
-- [Issues](/.github/ISSUE_TEMPLATE)
-- [Contributing](/CONTRIBUTING.md)
-- [Code of Conduct](/CODE_OF_CONDUCT.md)
-- [Coding Guidelines](/CODING_GUIDELINES.md)
-- [Codebase Structure](/CODEBASE_STRUCTURE.md)
-- [Changelog](/CHANGELOG.md)
-- [TODO](/TODO.md)
+- [README](/en/README_TEMPLATES)
+- [Pull Request](/en/PULL_REQUEST_TEMPLATE.md)
+- [Issues](/en/ISSUE_TEMPLATES)
+- [Contributing](/en/CONTRIBUTING.md)
+- [Code of Conduct](/en/CODE_OF_CONDUCT.md)
+- [Coding Guidelines](/en/CODING_GUIDELINES.md)
+- [Codebase Structure](/en/CODEBASE_STRUCTURE.md)
+- [Changelog](/en/CHANGELOG.md)
+- [TODO](/en/TODO.md)
   
 
 ## Technical Writing Programs <a name = "programs"></a>
@@ -121,5 +121,20 @@ Even if for some reason they have to use it, without good documentation, they wo
 
 ## P.S. <a name = "ps"></a>
 
-- This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/kylelobo/The-Documentation-Compendium/issues/new/choose) or send in a [Pull Request](/CONTRIBUTING.md)
-- The [TODO.md](/TODO.md) file or the [issues](https://github.com/kylelobo/The-Documentation-Compendium/issues) page are a good place to visit if you want to pick up some task. They have a list of things are to be implemented in the near future
+- This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/kylelobo/The-Documentation-Compendium/issues/new/choose) or send in a [Pull Request](/en/CONTRIBUTING.md)
+- The [issues](https://github.com/kylelobo/The-Documentation-Compendium/issues) page is a good place to visit if you want to pick up some task. It has a list of things are to be implemented in the near future
+
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/kylelobo/">
+    <span property="dct:title">Kyle Lobo</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">The Documentation Compendium</span>.
+</p>
